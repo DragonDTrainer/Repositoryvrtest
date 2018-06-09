@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GoogleVRForUnity_1.130.1_source/Assets/GoogleVR/Demos/Scenes/PermissionsDemo.unity
+  isLoaded: 1
+  isActive: 1
